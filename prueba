@@ -1,0 +1,37 @@
+Enter a number: 
+10: 6 3 1 
+time spent by 10: 0.000006
+CPU currently used: 8.974801%
+Enter a number: 
+100: 36 36 28 
+time spent by 100: 0.000006
+CPU currently used: 8.974175%
+Enter a number: 
+1000: 465 325 210 
+time spent by 1000: 0.000049
+CPU currently used: 8.973839%
+Enter a number: 
+10000: 3916 3081 3003 
+time spent by 10000: 0.000512
+CPU currently used: 8.972610%
+Enter a number: 
+100000: 34716 33153 32131 
+time spent by 100000: 0.004737
+CPU currently used: 8.971397%
+Enter a number: 
+1000000: 352380 339900 307720 
+time spent by 1000000: 0.052333
+CPU currently used: 8.969361%
+Enter a number: 
+10000000: 3517878 3247426 3234696 
+time spent by 10000000: 0.562009
+CPU currently used: 8.969395%
+Enter a number: 
+100000000: 34424253 33427576 32148171 
+time spent by 100000000: 5.931860
+CPU currently used: 8.973708%
+Enter a number: 
+1000000000: 335236671 332781301 331982028 
+time spent by 1000000000: 61.201163
+CPU currently used: 9.030363%
+Enter a number: 
